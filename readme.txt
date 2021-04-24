@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-1st Change master
-=======
 1st Change in feature123
->>>>>>> feature123
 2nd Change
 3rd Change
 1st change in feature123

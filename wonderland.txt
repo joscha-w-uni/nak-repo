@@ -1,2 +1,3 @@
 alice
 queen
+conflict
